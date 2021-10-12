@@ -9,6 +9,10 @@
 plugins {
     // Apply the application plugin to add support for building a CLI application in Java.
     id 'application'
+
+    //javafx
+    id 'org.openjfx.javafxplugin' version '0.0.10'
+
 }
 
 repositories {
@@ -16,7 +20,12 @@ repositories {
     mavenCentral()
 }
 
+
 dependencies {
+
+    //Use gson for json objects
+    implementation 'com.google.code.gson:gson:2.8.6'
+
     // Use JUnit Jupiter for testing.
     testImplementation 'org.junit.jupiter:junit-jupiter:5.7.2'
 
@@ -32,4 +41,9 @@ application {
 tasks.named('test') {
     // Use JUnit Platform for unit tests.
     useJUnitPlatform()
+}
+
+javafx {
+    version = "17"
+    modules = [ 'javafx.controls' ]
 }
