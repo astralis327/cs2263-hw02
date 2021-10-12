@@ -1,10 +1,11 @@
-# cs2263-hw02
 
-# cs2263_hw01
 
 ### Description
 
 This project is the second homework assignment in the class CS 2263 at ISU.
+
+There is capability read and write to and from JSON to allow for data storage for a list of Student objects, and 
+there is also a GUI that lists the students and the courses they are taking.
 
 ### Installation
 

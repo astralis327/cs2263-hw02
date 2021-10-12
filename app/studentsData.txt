@@ -1,0 +1,85 @@
+[
+  {
+   "studentCourses": [
+      {
+        "number" : "3360",
+        "subject": "MATH",
+        "title": "Differential Equations"
+      },
+      {
+        "number": "3307",
+        "subject": "ENGL",
+        "title": "Technical Writing"
+      },
+      {
+        "number": "2201",
+        "subject": "SPAN",
+        "title": "Intermediate Spanish I"
+      },
+      {
+        "number": "2263",
+        "subject": "CS",
+        "title": "Advanced Object Oriented Programming"
+      }
+    ],
+    "firstName" : "Emily",
+    "lastName" : "Elzinga"
+  },
+  {
+      "studentCourses":  [
+      {
+        "number" : "1175",
+        "subject": "MATH",
+        "title": " Calculus II"
+      },
+      {
+        "number": "1337",
+        "subject": "CS",
+        "title": "Systems Programming and Assembly"
+      },
+      {
+        "number": "2211",
+        "subject": "PHYS",
+        "title": "Engineering Phys I"
+      },
+      {
+        "number": "2213",
+        "subject": "PHYS",
+        "title": "Engineering Phys I Lab"
+      },
+      {
+        "number": "1181",
+        "subject": "CS",
+        "title": "Computer Science and Programming I"
+      }
+    ],
+    "firstName" : "Piotr",
+    "lastName" : "Walsh"
+  },
+  {
+   "studentCourses":  [
+      {
+        "number" : "4421",
+        "subject": "MATH",
+        "title": "Advanced Engineering Mathematics I"
+      },
+      {
+        "number": "4416",
+        "subject": "CS",
+        "title": "Foundations in Cybersecurity and Resilience	"
+      },
+      {
+        "number": "4415",
+        "subject": "PHYS",
+        "title": "Statistical Phys"
+      },
+      {
+        "number": "4412",
+        "subject": "CS",
+        "title": "Advanced Algorithms"
+      }
+    ],
+    "firstName" : "Pippa",
+    "lastName" : "Pemberton"
+  }
+]
