@@ -10,7 +10,7 @@ import java.util.List;
  * Student. This class includes the important characteristics of a student.
  *
  * @author Emily Elzinga
- * @version 2.0.0
+ * @version 2.1.0
  */
 public class Student {
     private List<Course> studentCourses;
