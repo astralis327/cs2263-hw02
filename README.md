@@ -1,4 +1,4 @@
-#CS 2263 Homework 02
+# CS 2263 Homework 02
 
 ### Description
 
