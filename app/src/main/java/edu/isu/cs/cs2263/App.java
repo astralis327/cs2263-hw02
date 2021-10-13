@@ -27,7 +27,7 @@ import java.util.List;
  * Main app class for the program
  *
  * @author Emily Elzinga
- * @version 2.0.0
+ * @version 2.1.0
  */
 public class App extends Application {
     private static App INSTANCE;

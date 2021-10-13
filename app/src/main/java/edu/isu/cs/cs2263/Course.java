@@ -8,7 +8,7 @@ package edu.isu.cs.cs2263;
 /**
  * Course. Student class has a list of these objects.
  * @author Emily Elzinga
- * @version 2.0.0
+ * @version 2.1.0
  */
 public class Course {
     private int number;

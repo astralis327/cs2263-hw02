@@ -6,13 +6,19 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [2.1.0] - 2021-12-11
+### Added
+- PushbackTokenizer.java interface
+- TokenizerAdapter.java class
+- PushbackTest.java class
+
 ## [2.0.0] - 2021-10-11
 ### Added
-- Course.java
-- IOManager.java
-- Student.java
+- Course.java class
+- IOManager.java class
+- Student.java class
 ### Changed
-- App.java
+- App.java class
   
 
 
