@@ -1,13 +1,13 @@
-#CS 2263 Homework 02
+# CS 2263 Homework 02
 
 ### Description
 
 This project is the second homework assignment in the class CS 2263 at ISU.
 
-There is capability read and write to and from JSON to allow for data storage for a list of Student objects, and 
+There is capability read and write to and from JSON to allow for data storage for a list of Student objects, and
 there is also a GUI that lists the students and the courses they are taking.
 
-It also has capability to tokenize a string and return it, and to push back a token for later use. 
+It also has capability to tokenize a string and return it, and to push back a token for later use.
 
 ### Installation
 
